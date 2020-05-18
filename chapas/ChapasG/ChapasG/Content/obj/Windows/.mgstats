@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Daniel/Desktop/Cliente/Chapas/ChapasG/ChapasG/Content/courier.spritefont","C:/Users/Daniel/Desktop/Cliente/Chapas/ChapasG/ChapasG/Content/bin/Windows/courier.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,3732483
+"C:/Users/Daniel/Desktop/Cliente/Chapas/ChapasG/ChapasG/Content/flecha.png","C:/Users/Daniel/Desktop/Cliente/Chapas/ChapasG/ChapasG/Content/bin/Windows/flecha.xnb","TextureProcessor","Texture2DContent",15108,1685,0,0410396
+"C:/Users/Daniel/Desktop/Cliente/Chapas/ChapasG/ChapasG/Content/personaje.png","C:/Users/Daniel/Desktop/Cliente/Chapas/ChapasG/ChapasG/Content/bin/Windows/personaje.xnb","TextureProcessor","Texture2DContent",19174,212605,0,0322049

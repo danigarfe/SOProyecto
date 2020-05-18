@@ -1,0 +1,73 @@
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\Content\courier.xnb
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\Content\flecha.xnb
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\Content\personaje.xnb
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\ChapasG.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\ChapasG.pdb
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\obj\x86\Debug\ChapasG.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\ChapasG\obj\x86\Debug\ChapasG.pdb
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\obj\x86\Debug\ChapasG.exe
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\obj\x86\Debug\ChapasG.pdb
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\Content\courier.xnb
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\Content\flecha.xnb
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\Content\personaje.xnb
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\ChapasG.exe
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\ChapasG.pdb
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\obj\x86\Debug\ChapasG.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Cliente\Chapas\ChapasG\ChapasG\obj\x86\Debug\ChapasG.csproj.CopyComplete
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\Content\courier.xnb
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\Content\flecha.xnb
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\Content\personaje.xnb
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\ChapasG.exe
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\ChapasG.pdb
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\obj\x86\Debug\ChapasG.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\obj\x86\Debug\ChapasG.csproj.CopyComplete
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\obj\x86\Debug\ChapasG.exe
+C:\Users\Daniel\Desktop\chapas\Chapas\ChapasG\ChapasG\obj\x86\Debug\ChapasG.pdb
