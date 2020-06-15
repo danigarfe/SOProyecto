@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Daniel/Desktop/PongSO/Content/Bola.png","C:/Users/Daniel/Desktop/PongSO/Content/bin/Windows/Bola.xnb","TextureProcessor","Texture2DContent",132,1109,0,1146948
+"C:/Users/Daniel/Desktop/PongSO/Content/Fondo.png","C:/Users/Daniel/Desktop/PongSO/Content/bin/Windows/Fondo.xnb","TextureProcessor","Texture2DContent",171998,1536085,0,0468878
+"C:/Users/Daniel/Desktop/PongSO/Content/Font.spritefont","C:/Users/Daniel/Desktop/PongSO/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2021,267281,0,1931759
+"C:/Users/Daniel/Desktop/PongSO/Content/Palo.png","C:/Users/Daniel/Desktop/PongSO/Content/bin/Windows/Palo.xnb","TextureProcessor","Texture2DContent",160,6485,0,0019964
+"C:/Users/Daniel/Desktop/PongSO/Content/Palo2.png","C:/Users/Daniel/Desktop/PongSO/Content/bin/Windows/Palo2.xnb","TextureProcessor","Texture2DContent",167,3925,0,0009964

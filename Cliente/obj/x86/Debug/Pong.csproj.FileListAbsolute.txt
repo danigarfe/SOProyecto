@@ -1,0 +1,196 @@
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\Content\Bola.xnb
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\Content\Palo.xnb
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\bin\Windows\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\obj\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\MonoGame_Tutorials-master\MonoGame_Tutorials\Tutorial010\obj\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\Content\Bola.xnb
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\Content\Palo.xnb
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\Desktop\PongSO\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\PongSO\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\Daniel\Desktop\PongSO\obj\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\PongSO\obj\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\PongSO\bin\Windows\x86\Debug\Content\Palo2.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\Content\Bola.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\Content\Palo.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\Content\Palo2.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Pongs\PongSO\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Pongs\PongSO\obj\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\Pongs\PongSO\obj\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\Content\Bola.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\Content\Palo.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\Content\Palo2.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\obj\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia\obj\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\Content\Bola.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\Content\Palo.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\Content\Palo2.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\obj\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia (2)\obj\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\Content\Bola.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\Content\Palo.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\Content\Palo2.xnb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\obj\x86\Debug\PongSO.exe
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\obj\x86\Debug\PongSO.pdb
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\obj\x86\Debug\PongSO.Form1.resources
+C:\Users\Daniel\Desktop\Pongs\PongSO - copia - copia\obj\x86\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Pongs\PongSO\obj\x86\Debug\PongSO.Form1.resources
+C:\Users\Daniel\Desktop\Pongs\PongSO\obj\x86\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Pongs\PongSO\obj\x86\Debug\PongSO.Form2.resources
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\Content\Bola.xnb
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\Content\Fondo.xnb
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\Content\Palo.xnb
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\Content\Palo2.xnb
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\PongSO.exe
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\PongSO.pdb
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\obj\x86\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\obj\x86\Debug\PongSO.Form1.resources
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\obj\x86\Debug\PongSO.Form2.resources
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\obj\x86\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\obj\x86\Debug\Pong.csproj.CopyComplete
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\obj\x86\Debug\PongSO.exe
+C:\Users\Admin\Desktop\Uni\2n CUATRI\Sistemes Operatius\PROYECTO\11\PongSO\obj\x86\Debug\PongSO.pdb
